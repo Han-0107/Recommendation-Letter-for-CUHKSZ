@@ -1,0 +1,14 @@
+This template was based on the Fudan University template in the following URL:
+https://www.overleaf.com/latex/templates/fudan-recommendation-letter-template/rvptymhypfkz
+
+The rights of utilization, modification and redistribution was granted according to GNU FDL 1.3, as long as this disclaimer and the following content was kept:
+
+    Copyright (C)  2022  Phosphorus15.
+    Permission is granted to copy, distribute and/or modify this document
+    under the terms of the GNU Free Documentation License, Version 1.3
+    or any later version published by the Free Software Foundation;
+    with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+    A copy of the license is included in the section entitled "GNU
+    Free Documentation License".
+
+    For the full license detail, refer to: https://www.gnu.org/licenses/fdl-1.3.html
